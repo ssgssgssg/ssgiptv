@@ -1,4 +1,3 @@
-# ssgiptv
 #EXTM3U
 F:-1 tvg-id="" tvg-name="## |SP| ESPAÑA HD ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/SPAIN.png" group-title="EU| ESPAÑA HD",## |SP| ESPAÑA HD ##
 http://onetvservice.ottc.pro:80/ORVQGZTIV1/KWSQQFJXRN/1700
